@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrtn22
 - 👀 I’m interested in Computer things
-- 🌱 I’m currently learning DevOps basic
+- 🌱 I’m currently learning Data Visualization
 - 💞️ I’m looking to collaborate on Real Project
 - 📫 How to reach me > +625959675002
 
